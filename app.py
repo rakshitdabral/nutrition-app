@@ -1,6 +1,4 @@
 from dotenv import load_dotenv
-from google.generativeai import upload_file
-
 load_dotenv()
 
 import streamlit as st
